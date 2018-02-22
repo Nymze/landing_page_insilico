@@ -3004,7 +3004,7 @@
 
 		.spotlight.left .content, .spotlight.right .content {
 			height: 101%;
-			padding: 6em 3em;
+			padding: 1.5em 3em;
 			top: 0;
 			width: 28em;
 		}
@@ -3345,21 +3345,21 @@
 
 	#one{
 
-		background-image: url(banner.jpg);
+		background-image: url(banner2.jpg);
 		background-position: center center;
 		background-size: cover;
 	}
 
 	#two{
 
-		background-image: url(banner.jpg);
+		background-image: url(pic033.jpg);
 		background-position: center center;
 		background-size: cover;
 	}
 
 	#three{
 
-		background-image: url(banner.jpg);
+		background-image: url(banner44.jpg);
 		background-position: center center;
 		background-size: cover;
 	}
